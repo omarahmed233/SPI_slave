@@ -1,4 +1,4 @@
 # SPI_slave
 This project implements an SPI (Serial Peripheral Interface) Slave module in Verilog.
-![Uploading image.png…]()
+![SPI Waveform](image.png)
 
